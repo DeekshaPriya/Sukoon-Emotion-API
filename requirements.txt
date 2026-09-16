@@ -3,10 +3,12 @@
 fastapi
 uvicorn[standard]
 python-multipart
+
 torch==2.14.0+cpu
 torchvision==0.29.0+cpu
+
 transformers==4.57.6
-tokenizers==0.23.2
+tokenizers==0.23.0
 mediapipe
 pillow
 numpy
