@@ -2,6 +2,7 @@ fastapi
 uvicorn[standard]
 python-multipart
 torch
+torchvision
 transformers
 mediapipe
 opencv-python-headless
