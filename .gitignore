@@ -1,0 +1,4 @@
+﻿video_emotion_model.pt
+__pycache__/
+*.pyc
+venv/

@@ -1,3 +1,9 @@
 fastapi
 uvicorn[standard]
 python-multipart
+torch
+transformers
+mediapipe
+opencv-python-headless
+pillow
+numpy
